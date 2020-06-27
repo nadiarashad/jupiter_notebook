@@ -1,1 +1,2 @@
-# jupiter_notebook
+# Welcome to my Jupyter Notebook repository
+
