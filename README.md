@@ -18,7 +18,7 @@ Clone this repository to you local machine, e.g. git clone https://github.com/na
 
 2. Anaconda, follow the instructions based on your operating system https://docs.anaconda.com/anaconda/install/
 
-#### Install the following modules:
+#### Install the following packages:
 
 3. Cryptography, run 'pip install cryptography' in your terminal (https://pypi.org/project/cryptography/)
 
